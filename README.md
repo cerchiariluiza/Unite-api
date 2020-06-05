@@ -8,7 +8,7 @@
 
 ## Estrutura do projeto
 
-`\pastas---------------------------------------------------------------------------`
+`\pastas---
 	`\raiz`: Nesta pasta tem os comandos de select e filtros:
 	
 	 index.php: Arquivo principal que contém três botões para as páginas de listagem:
@@ -38,7 +38,7 @@
 	update-locacao.php: Altera os dados no banco;
 	delete-locacao.php: Altera os dados no banco;
 	
-	`\include`: Nesta página os links para Materialize.css ocorrem.
+	`\include`: Nesta pásta os links para Materialize.css ocorrem.
 	header.php: css do Materialize;
 	footer.php: js do Materialize;
 	
